@@ -9,7 +9,11 @@ The reason for writing this was to learn a bit about using libraries
 for Python. But mostly I wrote it so I wouldn't need to bare those
 awful youtube video downloader websites (this is way faster as well)
 
-<br>
+To use this downloader, just clone this repository, add the needed
+yt-dlp package to your pip and double click the batch file.
+
+*the images folder includes an icon ready to be assigned to the
+batch file, if you would like to make it easier to spot.*
 
 ## Dependencies 
 
@@ -17,10 +21,8 @@ awful youtube video downloader websites (this is way faster as well)
 * [ffmpeg](https://www.ffmpeg.org/) - For converting the video to mp4
 
 ```python
-	pip install yt-dlp
+ pip install yt-dlp
 ```
-
-<br>
 
 ## Preview
 
